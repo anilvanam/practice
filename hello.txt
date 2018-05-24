@@ -1,1 +1,3 @@
 #hello welcome to Git Practice
+https://stackoverflow.com/questions/6119774/ssh-to-aws-instance-without-key-pairs
+https://stackoverflow.com/questions/2808177/how-can-i-git-clone-from-another-machine
